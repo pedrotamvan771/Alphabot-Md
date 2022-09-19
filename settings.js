@@ -26,30 +26,30 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "AryaBot" //namabot kalian
-global.ownername= "Arya" //nama kalian
-global.myweb ="https://chat.whatsapp.com/JGlsKZxJr5hKWW2fJF7fzv" //bebas asal jan hapus
-global.youtube = "-" //bebas asal jan hapus
-global.myweb2 = "-" //bebas
-global.email = "dewakrisna383@gmail.com" //bebas
+global.botname = "RZKYROBOT" //namabot kalian
+global.ownername= "RIZKYSTORE" //nama kalian
+global.myweb ="https://chat.whatsapp.com/JhKSoA89jB9CpXADBkldFN" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCjY0VhInP2qzyUfg0gfyLmA" //bebas asal jan hapus
+global.myweb2 = "http://instagram.com/rzk_ystore" //bebas
+global.email = "rzkygtg664@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['-'] //premium user
-global.owner = ["6285838110284"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285838110284" // nomor wa kalian
-global.ownernomerr = "+6285838110284" //nmr wa kalian
+global.owner = ["6281359352611"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6281359352611" // nomor wa kalian
+global.ownernomerr = "+6281359352611" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = 'Bot' //sticker wm ubah
-global.author = 'bot' //sticker wm ganti nama kalian
+global.packname = 'RIZKYSTORE' //sticker wm ubah
+global.author = 'ROBOT' //sticker wm ganti nama kalian
 global.sessionName = 'sessionn'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "10000",
-    free: 100
+    free: 10
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
