@@ -26,12 +26,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕" //namabot kalian
+global.botname = "AryaBot" //namabot kalian
 global.ownername= "𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕" //nama kalian
-global.myweb ="𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕" //bebas asal jan hapus
+global.myweb ="https://chat.whatsapp.com/JGlsKZxJr5hKWW2fJF7fzv" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCBDzMww5v-UE5gwLOJsVnMg" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/obitto_21" //bebas
-global.email = "disinicobra@gmail.com" //bebas
+global.email = "dewakrisna383@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6289680543446'] //premium user
@@ -42,8 +42,8 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '𝖘𝖙𝖎𝖈𝖐𝖊𝖗𝖇𝖞' //sticker wm ubah
-global.author = '𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕' //sticker wm ganti nama kalian
+global.packname = 'Bot' //sticker wm ubah
+global.author = 'bot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
